@@ -1,0 +1,8 @@
+.center{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.color{
+	border-bottom: 2px solid black;
+}
